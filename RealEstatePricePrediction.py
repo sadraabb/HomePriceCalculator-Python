@@ -1,5 +1,4 @@
 import random
-import subprocess
 
 def welcome():
     samplename = ["Anonymous", "Guest", "unknown"]
