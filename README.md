@@ -56,6 +56,12 @@ welcome()
 
 ---
 
+**Project developed by [Sadra Abbaszadeh](https://github.com/sadraabb)**
+
+_Thank you for checking out my project! Feel free to [contact me](mailto:sadra@example.com) for any inquiries or collaborations._
+
+---
+
 ### توضیحات فارسی
 
 #### **خوش آمدید به اپلیکیشن محاسبه قیمت خانه! 🏠💰**
