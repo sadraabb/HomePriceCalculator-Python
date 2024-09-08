@@ -1,5 +1,3 @@
----
-
 ### English Description
 
 #### **Welcome to the Real Estate Price Calculator App! 🏠💰**
