@@ -58,7 +58,7 @@ welcome()
 
 **Project developed by [Sadra Abbaszadeh](https://github.com/sadraabb)**
 
-_Thank you for checking out my project! Feel free to [contact me](mailto:sadra@example.com) for any inquiries or collaborations._
+_Thank you for checking out my project! Feel free to [contact me](mailto:abbsadra@gmail.com) for any inquiries or collaborations._
 
 ---
 
@@ -117,5 +117,10 @@ welcome()
 - اجرای اسکریپت.
 - دنبال کردن پیام‌های متنی برای وارد کردن نام، قیمت هر متر مربع، واحد پول و اندازه خانه.
 - بررسی فایل متنی ایجاد شده برای جزئیات.
+---
+
+**پروژه توسط [صدراباس‌زاده](https://github.com/sadraabb) توسعه داده شده است**
+
+_از اینکه پروژه من را بررسی کردید، سپاسگزارم! برای هرگونه پرسش یا همکاری می‌توانید به [ایمیل من](mailto:abbsadra@gmail.com) مراجعه کنید._
 
 ---
