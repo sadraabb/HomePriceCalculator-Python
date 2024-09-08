@@ -16,7 +16,6 @@ This Python script calculates the total price of a house based on user inputs. T
 
 ```python
 import random
-import subprocess
 
 def welcome():
     samplename = ["Anonymous", "Guest", "unknown"]
@@ -80,7 +79,6 @@ _Thank you for checking out my project! Feel free to [contact me](mailto:abbsadr
 
 ```python
 import random
-import subprocess
 
 def welcome():
     samplename = ["Anonymous", "Guest", "unknown"]
