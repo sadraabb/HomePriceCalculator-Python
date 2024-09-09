@@ -1,5 +1,6 @@
 import random
 
+print("Developer : Sadra Abbaszadeh")
 def welcome():
     samplename = ["Anonymous", "Guest", "unknown"]
     global Name
