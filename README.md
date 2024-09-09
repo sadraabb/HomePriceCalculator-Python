@@ -24,6 +24,7 @@ def welcome():
     print(f"Hi {Name}, Welcome To App")
     Name = input("Please Enter Your Name: ")
     Price_per_square_meter, Currency = int(input('Please enter the price per square meter: ')), str(input("What is your currency?"))
+
     square_footage = int(input("What is the size of your house? Please enter it in square meters: "))
     Total_Price = square_footage * Price_per_square_meter
     
@@ -87,6 +88,7 @@ def welcome():
     print(f"Hi {Name}, Welcome To App")
     Name = input("Please Enter Your Name: ")
     Price_per_square_meter, Currency = int(input('Please enter the price per square meter: ')), str(input("What is your currency?"))
+
     square_footage = int(input("What is the size of your house? Please enter it in square meters: "))
     Total_Price = square_footage * Price_per_square_meter
     
